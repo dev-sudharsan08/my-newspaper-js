@@ -1,0 +1,36 @@
+.name-field-group{
+  width: 400px;
+  margin: 0 auto;
+}
+
+/* .hide{
+  display:none;
+} */
+/* .img-text{
+text-overflow:ellipsis;
+/* width: 20px; */
+/* }  */
+
+/* weatherImage = '/assets/images/cloudy-image.jpg no-repeat'; */
+/* document.getElementById('body').style.background= weatherInfo.weatherImage; */
+
+/* weatherImage = `<img src="/assets/images/cloudy-image.jpg" height="100px" width="150px" alt="cloudy">`; */
+/* document.getElementById('weatherImage').innerHTML= weatherImage; */
+/* 
+body {
+  background-size: cover;
+} */
+
+.weather-report{
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.city{
+  margin-top: 15px;
+}
+
+.weather-image{
+  margin-top: 5px;
+}
